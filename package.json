@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "axios": "^1.5.1",
     "bech32": "^1.1.4",
     "bitcoinjs-lib": "^5.0.0",
     "bs58check": "^2.1.2",
-    "crypto": "^1.0.1"
+    "crypto": "^1.0.1",
+    "node-cron": "^3.0.2"
   }
 }
